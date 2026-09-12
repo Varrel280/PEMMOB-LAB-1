@@ -99,7 +99,6 @@ class LoginPage extends StatelessWidget {
                 // ===== Tombol Login =====
                 ElevatedButton(
                   onPressed: () {
-                    // Statis: belum ada fungsi apa pun sesuai ketentuan tugas
                   },
                   style: ElevatedButton.styleFrom(
                     backgroundColor: Colors.indigo,
@@ -129,7 +128,6 @@ class LoginPage extends StatelessWidget {
                     ),
                     GestureDetector(
                       onTap: () {
-                        // Statis: belum ada navigasi sesuai ketentuan tugas
                       },
                       child: const Text(
                         'Register',
